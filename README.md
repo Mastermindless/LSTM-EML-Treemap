@@ -192,9 +192,6 @@ to tell true identities from numerical coincidences.
 ```
 LSTM_EML_TREE_VIS/
 ├── README.md                     ← this file
-├── TASK_TREE_VIS.md              ← original task spec
-├── validate_eml_general.py       ← upstream per-channel validator
-├── validation_ouput.txt          ← canonical sample output of the validator
 ├── src_tree_search/              ← upstream LSTM-EML search
 │   ├── config.py
 │   ├── eml_tree.py               ← EML / Constant / EMLNode
@@ -209,7 +206,7 @@ LSTM_EML_TREE_VIS/
 │   ├── tree_validation.py        ← per-channel mpmath matcher
 │   ├── mermaid_render.py         ← tree → flowchart BT
 │   └── build_report.py           ← orchestrator: → md + html
-└── output/
+└── 200_ways_to_Pi/
     ├── validated_trees.md        ← the gallery (markdown)
 	├── index.md        		← the gallery (markdown)
     └── validated_trees.html      ← the gallery (single-file viewer)
