@@ -14,6 +14,8 @@ This repo wraps that search with a **discovery → validation → grouping →
 visualisation** pipeline that emits a publication-style gallery of ≥ 20
 distinct π-trees.
 
+By Schwill M. 2026; https://doi.org/10.5281/zenodo.19714280
+
 ---
 
 ## What you get
